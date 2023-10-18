@@ -1,0 +1,51 @@
+body {
+    background-image: url("SR.png");
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #FFCB47;
+    text-shadow: 5px 5px 5px #4A5043;
+}
+
+.container {
+    max-width: 80%;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 5px solid #FFCB47;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #4A5043;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+p {
+    background: #4A5043;
+    width: 200px;
+    display: inline-block;
+    border: #FFCB47;
+}
+
+#increment-btn {
+    background: linear-gradient(to right, #9AC2C9, blue);
+}
+
+#save-btn {
+    background: linear-gradient(to right, #8AA1B1, blue);
+}
+
